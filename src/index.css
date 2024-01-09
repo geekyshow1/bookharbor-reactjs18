@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper-slide-shadow{
+  background-color: transparent;
+}
